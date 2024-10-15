@@ -15,11 +15,11 @@ Linkedin: {https://www.linkedin.com/in/amanda-martins-89944a304/}
 ### Ferramentas e Tecnologias
 
 Possuo conhecimentos básicos em:
-Banco de Dados SQL
-Python
-C#
-Java
-Arduino
+## Banco de Dados SQL
+## Python
+## C#
+## Java
+## Arduino
 
 ### Idiomas
 
